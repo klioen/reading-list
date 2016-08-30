@@ -86,4 +86,5 @@
  * K&R中的K（Brian Kernighan）的近作，这本书源自Brian在普林斯顿大学所教授的计算机基础课程，以通俗易懂的方式讲述了现代人所应了解的计算机知识和网络知识.
 - [ ] Apprenticeship Patterns by Dave Hoover / Adewale Oshineye 
 - [ ] Being Geek by Michael Lopp
-- [ ] 软件随想录 by Joel Spolsky 
+- [ ] 软件随想录 by Joel Spolsky
+- [ ] [You Dont Know JS by](https://github.com/getify/You-Dont-Know-JS)
