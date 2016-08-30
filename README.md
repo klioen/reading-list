@@ -87,4 +87,4 @@
 - [ ] Apprenticeship Patterns by Dave Hoover / Adewale Oshineye 
 - [ ] Being Geek by Michael Lopp
 - [ ] 软件随想录 by Joel Spolsky
-- [ ] [You Dont Know JS by](https://github.com/getify/You-Dont-Know-JS)
+- [ ] [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
